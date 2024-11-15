@@ -30,7 +30,9 @@ git clone https://github.com/Cyb3rV1c/ThreadVeil
 
 1. Add your Rc4 encrypted shellcode in ThreadVeil.cpp 
 
-2. Compile & Run.
+2. Specify Secret Key for Decryption
+
+3. Compile & Run.
 
 
 # Example Output
