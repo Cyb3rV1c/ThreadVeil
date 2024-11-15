@@ -3,7 +3,7 @@
 
 **Description :**
 
-An advanced Windows tool that uses RC4 encryption to inject shellcode via the Remote Thread Hijacking technique, incorporating API obfuscation to obscure IAT visibility and evade detection by antivirus software
+An advanced Windows tool that uses RC4 encryption to inject shellcode via the Remote Thread Hijacking technique, incorporating API obfuscation to obscure IAT visibility and evade detection by AVs
 
 
 # Features
