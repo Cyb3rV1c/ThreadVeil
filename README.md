@@ -12,6 +12,8 @@ An advanced Windows tool that uses RC4 encryption to inject shellcode via the Re
 
 **[+] Remote Thread Hijacking** Technique where an external process takes control of a suspended thread in a target process to execute malicious code
 
+**[+] Anti-Debugging/Anti-Sandboxing**: Validates environnement first , won't execute if there is no internet or if specific processes are running in the background.
+
 
 # Getting Started
 
